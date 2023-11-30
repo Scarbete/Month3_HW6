@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e8ef9c-ee19-487e-b06f-a72d4a636766" name="Changes" comment="" />
+    <list default="true" id="52e8ef9c-ee19-487e-b06f-a72d4a636766" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0120.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0121.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0122.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0131.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0132.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +24,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,6 +39,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2T9FCXIetIcQlCb5KMd6DkvaYZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +52,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/MasterClass&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/MasterClass/images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -118,7 +135,19 @@
       <workItem from="1699203190242" duration="11000" />
       <workItem from="1699436424421" duration="3844000" />
       <workItem from="1699526733841" duration="7000" />
-      <workItem from="1699872557729" duration="4600000" />
+      <workItem from="1699872557729" duration="6152000" />
+      <workItem from="1699954833843" duration="265000" />
+      <workItem from="1700129858161" duration="791000" />
+      <workItem from="1700130711324" duration="377000" />
+      <workItem from="1700131838760" duration="5000" />
+      <workItem from="1700159610757" duration="658000" />
+      <workItem from="1700173355320" duration="18000" />
+      <workItem from="1700234059861" duration="4183000" />
+      <workItem from="1700561190590" duration="8768000" />
+      <workItem from="1700575419934" duration="652000" />
+      <workItem from="1700591765356" duration="1210000" />
+      <workItem from="1701083649756" duration="8346000" />
+      <workItem from="1701257343821" duration="3588000" />
     </task>
     <servers />
   </component>

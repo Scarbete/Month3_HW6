@@ -1,80 +1,75 @@
-// ЗАДАНИЕ - 1
+console.log(4798894)
 
-var tags = ['li', 'span', 'div', 'span', 'h3', 'a', 'div', 'span', 'a', 'li', 'div', 'div']
-
-var obj = {}
-
-// var obj = {
-//     name: "Quasar",
-//     age: 19
+// const randomNumsButton = document.querySelector('.randomNumsButton')
+// const box = document.querySelector('.box')
+//
+// // const num = 8
+// // console.log(num.toString().length)
+//
+// const getRandomInt = (min, max) => {
+//     min = Math.ceil(min)
+//     max = Math.floor(max)
+//     return Math.floor(Math.random() * (max - min + 1)) + min
 // }
-
-// console.log(tags[2])
-
-// for (let i = 0; i < tags.length; i++) {
-//     console.log(tags[i])
+//
+// const renderCircle = () => {
+//     box.innerHTML = ""
+//
+//     for (let i = 0; i < 6; i++) {
+//
+//         const randomNumber = getRandomInt(1, 99)
+//         const circle = document.createElement("div")
+//
+//         const numLength = randomNumber.toString()
+//
+//         circle.innerHTML = `<div>${numLength.length === 1 ? `0${randomNumber}` : randomNumber}</div>`
+//         circle.classList.add('circle')
+//
+//         box.append(circle)
+//     }
 // }
-
-// for (var item in obj) {
-//     console.log(item)
-// }
-
-// for (var item of tags) {
-//     console.log(item)
-// }
-
-// for (const item of tags) {
-    // obj[item]
-    //     ? obj[item]++
-    //     : obj[item] = 1
-
-    // if (obj[item]) {
-    //     obj[item]++
-    // }
-    // else {
-    //     obj[item] = 1
-    // }
-
-    // obj[item] = obj[item] +1 || 1
-// }
-
-// console.log(obj)
-
-// ЗАДАНИЕ - 2
-
-var starbucks = {
-    coffee: {
-        americano: 'Идеальный кофе разбавленный чистой, отфильтрованной водой',
-        latte: 'Кофе с добавлением большого количества горячего молока и молочной пены ',
-        cappuccino: 'Кофе с добавлением небольшого количества молока , и большим количеством молочной пены',
-        espresso: 'Чистый кофе',
-        macchiato: 'Двойная порция кофе с добавлением молочной пены'
-    },
-    tea: {
-        green: 'Листья китайского зеленого чая с горячей водой',  //Зеленый чай
-        chamomile: 'Травяной напиток, который приготавливается на основе сушеных цветков ромашки',  //Ромашковый чай
-        ginger: 'Напиток, приготовленный на основе корня имбиря с добавлением мёда (по желанию)',  //Имбирный чай
-        mint: 'Листья зеленого чая с добалением мяты и горячей воды',  //Мятный чай
-        hibiscus: 'Tравяной чайный напиток изготавливаемый из сушёных чашечек цветков розеллы, или суданской розы'  //Гибискучовый чай
-    }
-}
-
-var menu = prompt('Введите что вы хотите: tea, coffee')
-
-if (menu in starbucks) {
-    alert('Данный напиток есть')
-    var choose = prompt('Введите вариант напитка...')
-
-    if (menu === 'tea' && choose in starbucks.tea) {
-        alert(`Описание данного чая: ${starbucks.tea[choose]}, Ваш заказ оформлен!`)
-    }
-    else if (menu === 'coffee' && choose in starbucks.coffee) {
-        alert(`Описание данного коффе: ${starbucks.coffee[choose]}, Ваш заказ оформлен!`)
-    }
-    else {
-        alert('Данного варианта напитка нет')
-    }
-}
-else {
-    alert('Данного напитка в меню нет')
-}
+//
+// randomNumsButton.onclick = () => renderCircle()
+//
+//
+//
+// // const randomNumber = getRandomInt(1, 99)
+//
+// // console.log(randomNumber)
+//
+// // for (let i = 0; i < 6; i++) {}
+//
+// // function renderCircle(number) {
+// //     if number.length === 1
+// //     return `
+// //         <div>${number}</div>
+// //     `
+// // }
+//
+// // const buttons = document.querySelectorAll('button')
+// //
+// // buttons.forEach(item => {
+// //     item.onclick = () => {
+// //         document.body.style.backgroundColor = item.innerText
+// //     }
+// // })
+// //
+// // const nums = [ 13,13,1,23,1,3,24,86,75,6,24,13 ]
+// // const newArr = []
+// //
+// // for (const numsKey of nums) {
+// //     !newArr.includes(numsKey) && newArr.push(numsKey)
+// // }
+// //
+// //
+// //
+// // console.log(newArr)
+// //
+// // console.log(nums.sort((a, b) => a - b))
+// //
+// // console.log(nums.sort((a, b) => b - a))
+// //
+// // console.log(nums.toSorted((a, b) => a - b))
+// //
+// // console.log(nums.reverse(), 'reverse()')
+//
